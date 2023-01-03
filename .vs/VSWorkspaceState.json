@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AdminLogin",
+    "\\AdminLogin\\AdminLogin",
+    "\\AdminLogin\\AdminLogin\\web",
+    "\\AdminLogin\\packages",
+    "\\AdminLogin\\packages\\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1"
+  ],
+  "SelectedNode": "\\AdminLogin\\AdminLogin\\VeriGuncelle.aspx.cs",
+  "PreviewInSolutionExplorer": false
+}
